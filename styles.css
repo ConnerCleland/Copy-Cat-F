@@ -17,3 +17,7 @@ a:hover {
     color: yellow;
     text-decoration: underline;
 }
+.THE_BIG_TEXT{
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+}
